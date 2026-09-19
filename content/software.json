@@ -1,0 +1,133 @@
+[
+  {
+    "slug": "windows",
+    "title": "v2rayN Windows",
+    "platform": "Windows",
+    "arch": "x64 / x86 / ARM64",
+    "guidance": "同一架构可能有 WPF 与 desktop（Avalonia）两种界面包。",
+    "repository": "2dust/v2rayN",
+    "release": "7.24.9",
+    "releaseUrl": "https://github.com/2dust/v2rayN/releases/tag/7.24.9",
+    "assets": [
+      {
+        "name": "v2rayN-windows-64-desktop.zip",
+        "url": "https://github.com/2dust/v2rayN/releases/download/7.24.9/v2rayN-windows-64-desktop.zip",
+        "digest": "sha256:fbf187b3eca3e391bf348cc559bb458ab6d8f5cd5afdfbce5de45b01c26bd179"
+      },
+      {
+        "name": "v2rayN-windows-64.zip",
+        "url": "https://github.com/2dust/v2rayN/releases/download/7.24.9/v2rayN-windows-64.zip",
+        "digest": "sha256:84a3b7d249db0c87951566f3fa4af520d97115469a404e1d3d506096f6186685"
+      },
+      {
+        "name": "v2rayN-windows-86-desktop.zip",
+        "url": "https://github.com/2dust/v2rayN/releases/download/7.24.9/v2rayN-windows-86-desktop.zip",
+        "digest": "sha256:fe16089fb4aebec44ba17153154587b5aea19178b43a2ba76f3318cfeada7097"
+      },
+      {
+        "name": "v2rayN-windows-86.zip",
+        "url": "https://github.com/2dust/v2rayN/releases/download/7.24.9/v2rayN-windows-86.zip",
+        "digest": "sha256:10b283a99cb7c18f0876586c60e579127e1d917692588054bf2fac5848f6d2ac"
+      },
+      {
+        "name": "v2rayN-windows-arm64-desktop.zip",
+        "url": "https://github.com/2dust/v2rayN/releases/download/7.24.9/v2rayN-windows-arm64-desktop.zip",
+        "digest": "sha256:445b79fe2a5f108c1593f37ee18a33d171a0c444d447e9e0396280b2b30e92ba"
+      },
+      {
+        "name": "v2rayN-windows-arm64.zip",
+        "url": "https://github.com/2dust/v2rayN/releases/download/7.24.9/v2rayN-windows-arm64.zip",
+        "digest": "sha256:f8e007a614cec5b96eea64cb05b9694d39b0946f6e3920285f8beead24029cc5"
+      }
+    ]
+  },
+  {
+    "slug": "macos",
+    "title": "v2rayN macOS",
+    "platform": "macOS",
+    "arch": "Intel / Apple Silicon",
+    "guidance": "按处理器选择 64 或 arm64，核对当前最低系统要求。",
+    "repository": "2dust/v2rayN",
+    "release": "7.24.9",
+    "releaseUrl": "https://github.com/2dust/v2rayN/releases/tag/7.24.9",
+    "assets": [
+      {
+        "name": "v2rayN-macos-64.dmg",
+        "url": "https://github.com/2dust/v2rayN/releases/download/7.24.9/v2rayN-macos-64.dmg",
+        "digest": "sha256:71d0dc8fb1d04990ba6fe25a8faaf4023ea3999f99a9c818ff10d9db5dee3cc1"
+      },
+      {
+        "name": "v2rayN-macos-64.zip",
+        "url": "https://github.com/2dust/v2rayN/releases/download/7.24.9/v2rayN-macos-64.zip",
+        "digest": "sha256:38a46eedde4210d44d82347b1138e5cf75bb03a11d0e90e63c0662d42f302a61"
+      },
+      {
+        "name": "v2rayN-macos-arm64.dmg",
+        "url": "https://github.com/2dust/v2rayN/releases/download/7.24.9/v2rayN-macos-arm64.dmg",
+        "digest": "sha256:60b7812c460f985300dadda69f2ba2ecd74c919f8c96d1e97ab07941e6e4d965"
+      },
+      {
+        "name": "v2rayN-macos-arm64.zip",
+        "url": "https://github.com/2dust/v2rayN/releases/download/7.24.9/v2rayN-macos-arm64.zip",
+        "digest": "sha256:e5f5d1dee174992d86f7a8faa65ed8449309ae98d5b983c3b931ea91b86a3e91"
+      }
+    ]
+  },
+  {
+    "slug": "linux",
+    "title": "v2rayN Linux",
+    "platform": "Linux",
+    "arch": "x64 / ARM64 / 其他",
+    "guidance": "按发行版选择 deb、rpm 或便携 ZIP，同时确认架构。",
+    "repository": "2dust/v2rayN",
+    "release": "7.24.9",
+    "releaseUrl": "https://github.com/2dust/v2rayN/releases/tag/7.24.9",
+    "assets": [
+      {
+        "name": "v2rayN-linux-64.deb",
+        "url": "https://github.com/2dust/v2rayN/releases/download/7.24.9/v2rayN-linux-64.deb",
+        "digest": "sha256:8b8893fe951b98158dfe44cd12dd562f2914fad9350732c36b3d214c6fc8a4bc"
+      },
+      {
+        "name": "v2rayN-linux-64.zip",
+        "url": "https://github.com/2dust/v2rayN/releases/download/7.24.9/v2rayN-linux-64.zip",
+        "digest": "sha256:8847f77fc1f7e8f9afed0790707326ec6685f7c3f10b63dd7a43772f4bfe5fef"
+      },
+      {
+        "name": "v2rayN-linux-arm64.deb",
+        "url": "https://github.com/2dust/v2rayN/releases/download/7.24.9/v2rayN-linux-arm64.deb",
+        "digest": "sha256:24e6a3a5da3d4bdb90ec5fc439eee609653e601b128f189d02aa4c1797c93315"
+      },
+      {
+        "name": "v2rayN-linux-arm64.zip",
+        "url": "https://github.com/2dust/v2rayN/releases/download/7.24.9/v2rayN-linux-arm64.zip",
+        "digest": "sha256:6456833777d5cafaffed948a86fb7c9685b929c9cc580a3b730445d6353f46bb"
+      },
+      {
+        "name": "v2rayN-linux-loong64.deb",
+        "url": "https://github.com/2dust/v2rayN/releases/download/7.24.9/v2rayN-linux-loong64.deb",
+        "digest": "sha256:8b2c6a55ae11aa28b7cf796c0be4055dc1a7925ba4917316eaca57d9ef9e0793"
+      },
+      {
+        "name": "v2rayN-linux-rhel-64.rpm",
+        "url": "https://github.com/2dust/v2rayN/releases/download/7.24.9/v2rayN-linux-rhel-64.rpm",
+        "digest": "sha256:45971f97a1ec114aba423af2baf6ef2d2f73c6c36b01c68b494758c470fb443c"
+      },
+      {
+        "name": "v2rayN-linux-rhel-arm64.rpm",
+        "url": "https://github.com/2dust/v2rayN/releases/download/7.24.9/v2rayN-linux-rhel-arm64.rpm",
+        "digest": "sha256:634c8bd99b5c1d3674b2f025980d43c32ad77b212cb71074c3611404b7bedb1f"
+      },
+      {
+        "name": "v2rayN-linux-rhel-loong64.rpm",
+        "url": "https://github.com/2dust/v2rayN/releases/download/7.24.9/v2rayN-linux-rhel-loong64.rpm",
+        "digest": "sha256:62658ad63cb9adab4c78fef65a26b401d3e5821c9f024c87f66ef53ae504b9e2"
+      },
+      {
+        "name": "v2rayN-linux-riscv64.deb",
+        "url": "https://github.com/2dust/v2rayN/releases/download/7.24.9/v2rayN-linux-riscv64.deb",
+        "digest": "sha256:7854118d5bfddb4141bbae9f3e7ea3314510d0d6f4c7145a8b6a1b1152a16592"
+      }
+    ]
+  }
+]

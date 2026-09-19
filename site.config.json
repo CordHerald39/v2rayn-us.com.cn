@@ -1,0 +1,89 @@
+{
+  "n": 9,
+  "domain": "v2rayn-us.com.cn",
+  "name": "v2rayN 桌面指南",
+  "subject": "v2rayN",
+  "theme": "navy",
+  "color": "#2254a5",
+  "title": "v2rayN 下载与桌面配置指南",
+  "hero": [
+    "一个桌面客户端，",
+    "三种系统的清晰入口。"
+  ],
+  "description": "v2rayN 桌面指南提供 Windows、macOS、Linux 原始项目下载入口，介绍安装包区别、系统代理、路由配置、版本升级和签名核验。",
+  "kicker": "DESKTOP / WINDOWS · MACOS · LINUX",
+  "focus": "多平台下载与维护",
+  "repo": "2dust/v2rayN",
+  "intro": "按操作系统与处理器选择安装包，理解系统代理和核心路由。从文件核验到版本维护，找到适合桌面设备的操作路径。",
+  "related": [
+    [
+      "flclashash.com.cn",
+      "FlClash 中文指南",
+      "比较跨平台客户端与安装包校验",
+      4177
+    ],
+    [
+      "clashdaquan.com.cn",
+      "Clash 大全",
+      "了解桌面工具与内核的分工",
+      4173
+    ]
+  ],
+  "paths": [
+    "choose-client",
+    "import-subscription",
+    "macos-linux",
+    "system-routing",
+    "release-signature",
+    "upgrade-rollback"
+  ],
+  "repository": "2dust/v2rayN",
+  "previewPort": 4181,
+  "verified": "2026-09-20",
+  "categories": [
+    [
+      "downloads",
+      "v2rayN 下载",
+      "核对系统、架构与原始发布来源。"
+    ],
+    [
+      "tutorials",
+      "使用教程",
+      "从准备到首次连接，按步骤完成。"
+    ],
+    [
+      "configuration",
+      "配置指南",
+      "理解订阅、路由与备份的边界。"
+    ],
+    [
+      "troubleshooting",
+      "问题排查",
+      "先记录现象，再逐层定位原因。"
+    ]
+  ],
+  "featuredGuides": [
+    "choose-client",
+    "import-subscription",
+    "macos-linux",
+    "system-routing",
+    "release-signature",
+    "upgrade-rollback"
+  ],
+  "relatedSites": [
+    {
+      "domain": "flclashash.com.cn",
+      "name": "FlClash 中文指南",
+      "reason": "比较跨平台客户端与安装包校验",
+      "port": 4177,
+      "published": false
+    },
+    {
+      "domain": "clashdaquan.com.cn",
+      "name": "Clash 大全",
+      "reason": "了解桌面工具与内核的分工",
+      "port": 4173,
+      "published": false
+    }
+  ]
+}

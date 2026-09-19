@@ -1,0 +1,1 @@
+if(['localhost','127.0.0.1'].includes(location.hostname)){document.querySelectorAll('[data-preview-port]').forEach(el=>{const a=document.createElement('a');a.href='http://127.0.0.1:'+el.dataset.previewPort+'/';a.className='preview-link';a.textContent='打开本地预览 →';el.append(a);});}
